@@ -1,5 +1,89 @@
 [
   {
+    "id": "mbc_masr_1",
+    "name": "MBC Masr 1",
+    "category": "Égypte",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/egypt/mbc-masr-eg.png",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8"
+  },
+  {
+    "id": "mbc_masr_2",
+    "name": "MBC Masr 2",
+    "category": "Égypte",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/egypt/mbc-masr-2-eg.png",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8"
+  },
+  {
+    "id": "rotana_cinema_egypt",
+    "name": "Rotana Cinema",
+    "category": "Cinéma & Séries",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/saudi-arabia/rotana-cinema-sa.png",
+    "streamUrl": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8"
+  },
+  {
+    "id": "al_hayat_tv",
+    "name": "Al Hayat TV",
+    "category": "Égypte",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/egypt/al-hayah-tv-eg.png",
+    "streamUrl": "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8"
+  },
+  {
+    "id": "al_qahera_news",
+    "name": "Al Qahera News",
+    "category": "Actualités / News",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/egypt/al-qahera-news-eg.png",
+    "streamUrl": "https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8"
+  },
+  {
+    "id": "al_ghad_tv",
+    "name": "Al Ghad TV",
+    "category": "Actualités / News",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/egypt/al-ghad-tv-eg.png",
+    "streamUrl": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8"
+  },
+  {
+    "id": "al_ghad_plus",
+    "name": "Al Ghad Plus",
+    "category": "Actualités / News",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/egypt/al-ghad-tv-eg.png",
+    "streamUrl": "https://playlist.fasttvcdn.com/pl/ykvm3f2fhokwxqsurp9xcg/alghad-plus/playlist.m3u8"
+  },
+  {
+    "id": "watan_tv",
+    "name": "Watan TV",
+    "category": "Égypte",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/egypt/watan-tv-eg.png",
+    "streamUrl": "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8"
+  },
+  {
+    "id": "huda_tv",
+    "name": "Huda TV",
+    "category": "Culture & Spiritualité",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/egypt/huda-tv-eg.png",
+    "streamUrl": "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8"
+  },
+  {
+    "id": "ctv_coptic",
+    "name": "Coptic TV (CTV)",
+    "category": "Culture & Spiritualité",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Coptic_news.jpg",
+    "streamUrl": "https://ctv.icopts.app/CTV/index.fmp4.m3u8"
+  },
+  {
+    "id": "aghapy_tv",
+    "name": "Aghapy TV",
+    "category": "Culture & Spiritualité",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg",
+    "streamUrl": "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8"
+  },
+  {
+    "id": "koogi_tv",
+    "name": "Koogi TV Kids",
+    "category": "Jeunesse / Kids",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/egypt/koogi-tv-eg.png",
+    "streamUrl": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8"
+  },
+  {
     "id": "al_jazeera_ar",
     "name": "Al Jazeera",
     "category": "Actualités / News",
