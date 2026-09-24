@@ -1,5 +1,152 @@
 [
   {
+    "id": "2m_monde",
+    "name": "2M Monde",
+    "category": "Maghreb",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/morocco/2m-monde-ma.png",
+    "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8"
+  },
+  {
+    "id": "al_aoula",
+    "name": "Al Aoula",
+    "category": "Maghreb",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/morocco/al-aoula-ma.png",
+    "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8"
+  },
+  {
+    "id": "arryadia",
+    "name": "Arryadia Sport",
+    "category": "Maghreb",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/morocco/arryadia-ma.png",
+    "streamUrl": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8"
+  },
+  {
+    "id": "medi1_tv",
+    "name": "Medi 1 TV Arabic",
+    "category": "Maghreb",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/morocco/medi-1-tv-ma.png",
+    "streamUrl": "https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8"
+  },
+  {
+    "id": "chada_tv",
+    "name": "Chada TV",
+    "category": "Maghreb",
+    "logoUrl": "https://chadatv.com/wp-content/themes/chadatv/images/logo.png",
+    "streamUrl": "https://edge7.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8"
+  },
+  {
+    "id": "samira_tv",
+    "name": "Samira TV",
+    "category": "Maghreb",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/algeria/samira-tv-dz.png",
+    "streamUrl": "http://95.170.215.109/hls/m3u8/SamiraTV-Backup.m3u8"
+  },
+  {
+    "id": "ennahar_tv",
+    "name": "Ennahar TV",
+    "category": "Maghreb",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/algeria/ennahar-tv-dz.png",
+    "streamUrl": "http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8"
+  },
+  {
+    "id": "nessma_tv",
+    "name": "Nessma",
+    "category": "Maghreb",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/tunisia/nessma-tn.png",
+    "streamUrl": "http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8"
+  },
+  {
+    "id": "al_jazeera_ar",
+    "name": "Al Jazeera",
+    "category": "Actualités / News",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/al-jazeera-qa.png",
+    "streamUrl": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"
+  },
+  {
+    "id": "al_hadath",
+    "name": "Al Hadath",
+    "category": "Actualités / News",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/saudi-arabia/al-hadath-sa.png",
+    "streamUrl": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8"
+  },
+  {
+    "id": "france24_ar",
+    "name": "France 24 Arabic",
+    "category": "Actualités / News",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-24-arabe-fr.png",
+    "streamUrl": "http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8"
+  },
+  {
+    "id": "rt_arabic",
+    "name": "RT Arabic",
+    "category": "Actualités / News",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/rt-arabic-ru.png",
+    "streamUrl": "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8"
+  },
+  {
+    "id": "dw_arabia",
+    "name": "DW Arabia",
+    "category": "Actualités / News",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dw-arabia-de.png",
+    "streamUrl": "https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8?sd=10&rebase=on"
+  },
+  {
+    "id": "quran_makkah",
+    "name": "Al Quran Al Kareem (Makkah)",
+    "category": "Religion & Spiritualité",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/saudi-arabia/saudi-quran-sa.png",
+    "streamUrl": "http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8"
+  },
+  {
+    "id": "sunnah_medina",
+    "name": "Al Sunnah (Medina)",
+    "category": "Religion & Spiritualité",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/saudi-arabia/saudi-sunnah-sa.png",
+    "streamUrl": "http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8"
+  },
+  {
+    "id": "iqraa_tv",
+    "name": "Iqraa",
+    "category": "Religion & Spiritualité",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/saudi-arabia/iqraa-tv-sa.png",
+    "streamUrl": "https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8"
+  },
+  {
+    "id": "spacetoon_arabic",
+    "name": "Spacetoon",
+    "category": "Jeunesse / Kids",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/spacetoon-ae.png",
+    "streamUrl": "https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8"
+  },
+  {
+    "id": "majid_kids",
+    "name": "Majid TV",
+    "category": "Jeunesse / Kids",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/majid-tv-ae.png",
+    "streamUrl": "https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?adtv"
+  },
+  {
+    "id": "toyor_baby",
+    "name": "Toyor Baby",
+    "category": "Jeunesse / Kids",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/jordan/toyor-baby-jo.png",
+    "streamUrl": "http://95.170.215.109:80/hls/m3u8/TOYOR-B-Backup.m3u8"
+  },
+  {
+    "id": "karameesh",
+    "name": "Karameesh",
+    "category": "Jeunesse / Kids",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/jordan/karameesh-jo.png",
+    "streamUrl": "http://95.170.215.109/hls/m3u8/Karameesh-Backup.m3u8"
+  },
+  {
+    "id": "nat_geo_ad",
+    "name": "Nat Geo Abu Dhabi",
+    "category": "Documentaires",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/national-geographic-abu-dhabi-ae.png",
+    "streamUrl": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv"
+  },
+  {
     "id": "bfm_tv",
     "name": "BFM TV",
     "category": "BFM News & Régions",
