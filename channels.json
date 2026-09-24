@@ -257,6 +257,111 @@
     "category": "Radio & Musique",
     "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/sharjah-tv-ae.png",
     "streamUrl": "https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8"
+  },
+  {
+    "id": "tolo_tv",
+    "name": "Tolo TV",
+    "category": "Afghanistan",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Tolo_TV_logo.svg/512px-Tolo_TV_logo.svg.png",
+    "streamUrl": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "id": "tolo_news",
+    "name": "TOLOnews",
+    "category": "Afghanistan",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Tolo_News_Logo.png/512px-Tolo_News_Logo.png",
+    "streamUrl": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8"
+  },
+  {
+    "id": "lemar_tv",
+    "name": "Lemar TV",
+    "category": "Afghanistan",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Lemar_TV_logo.png/512px-Lemar_TV_logo.png",
+    "streamUrl": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8"
+  },
+  {
+    "id": "rta_afghanistan",
+    "name": "RTA National",
+    "category": "Afghanistan",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/RTA_Logo.png/512px-RTA_Logo.png",
+    "streamUrl": "https://rta-tv.akamaized.net/live/SD/RTA-1/RTA/RTA-1.m3u8"
+  },
+  {
+    "id": "shamshad_tv",
+    "name": "Shamshad TV",
+    "category": "Afghanistan",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Shamshad_TV_logo.png/512px-Shamshad_TV_logo.png",
+    "streamUrl": "https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8"
+  },
+  {
+    "id": "tamadon_tv",
+    "name": "Tamadon TV",
+    "category": "Afghanistan",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tamadon_TV_Logo.png/512px-Tamadon_TV_Logo.png",
+    "streamUrl": "https://hls.tamadon.live/hls/stream.m3u8"
+  },
+  {
+    "id": "amc_tv_af",
+    "name": "AMC TV",
+    "category": "Afghanistan",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png",
+    "streamUrl": "https://amchls.wns.live/hls/stream.m3u8"
+  },
+  {
+    "id": "bahar_tv",
+    "name": "Bahar TV",
+    "category": "Afghanistan",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/RTA_Logo.png/512px-RTA_Logo.png",
+    "streamUrl": "https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8"
+  },
+  {
+    "id": "dunya_naw_tv",
+    "name": "Dunya Naw TV",
+    "category": "Afghanistan",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/RTA_Logo.png/512px-RTA_Logo.png",
+    "streamUrl": "https://dunyanhls.wns.live/hls/stream.m3u8"
+  },
+  {
+    "id": "eslah_tv",
+    "name": "Eslah TV",
+    "category": "Afghanistan",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/RTA_Logo.png/512px-RTA_Logo.png",
+    "streamUrl": "https://eslahtvhls.wns.live/hls/stream.m3u8"
+  },
+  {
+    "id": "hewad_tv",
+    "name": "Hewad TV",
+    "category": "Afghanistan",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/RTA_Logo.png/512px-RTA_Logo.png",
+    "streamUrl": "http://51.210.199.58/hls/stream.m3u8"
+  },
+  {
+    "id": "iman_tv",
+    "name": "Iman TV",
+    "category": "Afghanistan",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/RTA_Logo.png/512px-RTA_Logo.png",
+    "streamUrl": "https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8"
+  },
+  {
+    "id": "kayhan_tv",
+    "name": "Kayhan TV",
+    "category": "Afghanistan",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/RTA_Logo.png/512px-RTA_Logo.png",
+    "streamUrl": "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8"
+  },
+  {
+    "id": "shams_tv",
+    "name": "Shams TV",
+    "category": "Afghanistan",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/RTA_Logo.png/512px-RTA_Logo.png",
+    "streamUrl": "https://fflive-darya-educationtv.b-cdn.net/master.m3u8"
+  },
+  {
+    "id": "sharq_radio_tv",
+    "name": "Sharq Radio TV",
+    "category": "Afghanistan",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/RTA_Logo.png/512px-RTA_Logo.png",
+    "streamUrl": "https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8"
   }
   
 ]
