@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bfm_tv",
+    "name": "BFM TV",
+    "category": "BFM News & Régions",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE"
+  },
+  {
+    "id": "bfm_business",
+    "name": "BFM Business",
+    "category": "BFM News & Régions",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-business-fr.png",
+    "streamUrl": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE"
+  },
+  {
+    "id": "france_24",
+    "name": "France 24",
+    "category": "News",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-24-fr.png",
+    "streamUrl": "https://stream.skynewsarabia.com/hls/sna_720.m3u8"
+  },
+  {
+    "id": "nasa_tv",
+    "name": "NASA TV",
+    "category": "Science",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nasa-tv-us.png",
+    "streamUrl": "https://ntv1.akamaized.net/hls/live/2013975/NASA-NTV1-HLS/master.m3u8"
+  },
+  {
+    "id": "red_bull_tv",
+    "name": "Red Bull TV",
+    "category": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/austria/red-bull-tv-at.png",
+    "streamUrl": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+  }
+]
