@@ -1,24 +1,23 @@
-
 [
   {
     "id": "match_1",
-    "teamA": "Real Madrid",
-    "teamALogo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_MadridCF.svg",
-    "teamB": "FC Barcelona",
-    "teamBLogo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+    "teamA": "ريال مدريد",
+    "teamALogo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/real-madrid-cf-es.png",
+    "teamB": "برشلونة",
+    "teamBLogo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/fc-barcelona-es.png",
     "time": "21:00",
-    "tournament": "UEFA Champions League",
+    "tournament": "دوري أبطال أوروبا",
     "channelName": "beIN Sports HD 1",
     "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
     "id": "match_2",
-    "teamA": "Wydad AC",
-    "teamALogo": "https://upload.wikimedia.org/wikipedia/en/d/d1/Wydad_Athletic_Club.png",
-    "teamB": "Raja CA",
-    "teamBLogo": "https://upload.wikimedia.org/wikipedia/en/9/94/Raja_Club_Athletic.png",
+    "teamA": "الوداد الرياضي",
+    "teamALogo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/morocco/wydad-ac-ma.png",
+    "teamB": "الرجاء الرياضي",
+    "teamBLogo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/morocco/raja-ca-ma.png",
     "time": "18:00",
-    "tournament": "Botola Pro Inwi",
+    "tournament": "البطولة الاحترافية إنوي",
     "channelName": "Arryadia HD",
     "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   }
