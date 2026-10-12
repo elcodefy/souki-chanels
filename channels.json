@@ -362,5 +362,194 @@
     "category": "Afghanistan",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/RTA_Logo.png/512px-RTA_Logo.png",
     "streamUrl": "https://fflive-darya-educationtv.b-cdn.net/master.m3u8"
+  },
+  {
+    "id": "star_sports_1_hd",
+    "name": "Star Sports 1 HD",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://41.205.93.154/STARSPORTS1/index.m3u8"
+  },
+  {
+    "id": "redbull_tv",
+    "name": "Redbull TV",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+  },
+  {
+    "id": "bein_sports_extra",
+    "name": "BeiN Sports Extra",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8"
+  },
+  {
+    "id": "s_laliga___",
+    "name": "S LALIGA 🇿🇦",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://zylotech.xyz/live/1/chunks.m3u8?bongls.com"
+  },
+  {
+    "id": "s_laliga___",
+    "name": "S LALIGA 🇿🇦",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts"
+  },
+  {
+    "id": "turkmenistan_sport___",
+    "name": "Turkmenistan Sport 🇹🇲",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8"
+  },
+  {
+    "id": "turkmenistan_sport___",
+    "name": "Turkmenistan Sport 🇹🇲",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://217.174.225.146/legacyhls/ch004_720/index.m3u8"
+  },
+  {
+    "id": "s_sport_1___",
+    "name": "S SPORT 1 🇹🇷",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19070/index.m3u8"
+  },
+  {
+    "id": "s_sport_2___",
+    "name": "S SPORT 2 🇹🇷",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19071/index.m3u8"
+  },
+  {
+    "id": "_____________3_hd___",
+    "name": "Матч! Футбол 3 HD 🇷🇺",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://185.57.68.33/110/mpegts"
+  },
+  {
+    "id": "megogo_______2_hd___",
+    "name": "MEGOGO Спорт 2 HD 🇺🇦",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://eqatmiyg.megogo.xyz/iptv/EBUCGK992DRF6L/20103/index.m3u8"
+  },
+  {
+    "id": "real_madrid_tv___",
+    "name": "REAL MADRID TV 🇪🇸",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8"
+  },
+  {
+    "id": "bein_sport_extra_____",
+    "name": "BEIN SPORT EXTRA Ñ 🇪🇸",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"
+  },
+  {
+    "id": "telecosta_guatemala___",
+    "name": "TELECOSTA GUATEMALA 🇬🇹",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8"
+  },
+  {
+    "id": "telemundo___",
+    "name": "TELEMUNDO 🇲🇽",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+  },
+  {
+    "id": "sport5___",
+    "name": "Sport5 🇮🇱",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8"
+  },
+  {
+    "id": "viju__sport___",
+    "name": "Viju+ Sport 🇷🇺",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "id": "sport_ru___",
+    "name": "SPORT RU 🇷🇺",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8"
+  },
+  {
+    "id": "x_sport___",
+    "name": "X SPORT 🇷🇺",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://iptv.prosto.tv:7000/ch109/video.m3u8"
+  },
+  {
+    "id": "turkmenistan_sport___",
+    "name": "Turkmenistan Sport 🇹🇲",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://217.174.225.146/hls/ch004_720/index.m3u8"
+  },
+  {
+    "id": "uz_sport___",
+    "name": "UZ SPORT 🇺🇿",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://stream1.cinerama.uz/1004/index.m3u8"
+  },
+  {
+    "id": "infosport___",
+    "name": "INFOSPORT 🇫🇷",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://212.102.60.80/Infosport/index.m3u8"
+  },
+  {
+    "id": "spotv___",
+    "name": "SPOTV 🇲🇾",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8"
+  },
+  {
+    "id": "spotv_2___",
+    "name": "SPOTV 2 🇲🇾",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8"
+  },
+  {
+    "id": "teletrak___",
+    "name": "TELETRAK 🇨🇱",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8"
+  },
+  {
+    "id": "trt_1___",
+    "name": "TRT 1 🇹🇷",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://helga.iptv2022.com/sh/trt_1/index.m3u8"
+  },
+  {
+    "id": "sony_ten_1_hd___",
+    "name": "Sony Ten 1 HD 🇮🇳",
+    "category": "Général",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C"
   }
 ]
