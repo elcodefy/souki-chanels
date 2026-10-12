@@ -2,9 +2,9 @@
   {
     "id": "match_1",
     "teamA": "ريال مدريد",
-    "teamALogo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/real-madrid-cf-es.png",
+    "teamALogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/teams/real_madrid.png",
     "teamB": "برشلونة",
-    "teamBLogo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/fc-barcelona-es.png",
+    "teamBLogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/teams/barcelona.png",
     "time": "21:00",
     "tournament": "دوري أبطال أوروبا",
     "channelName": "beIN Sports HD 1",
