@@ -1,15 +1,16 @@
 [
   {
-    "id": "match_1",
-    "teamA": "ريال مدريد",
-    "teamALogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/real_madrid.png",
-    "teamB": "برشلونة",
-    "teamBLogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/barcelona.png",
-    "time": "21:00",
-    "tournament": "دوري أبطال أوروبا",
-    "channelName": "beIN Sports HD 1",
-    "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-  },
+  "id": "match_1",
+  "teamA": "ريال مدريد",
+  "teamALogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/real_madrid.png",
+  "teamB": "برشلونة",
+  "teamBLogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/barcelona.png",
+  "status": "21:00",
+  "tournament": "دوري أبطال أوروبا",
+  "channelName": "beIN SPORTS 1",
+  "commentator": "عصام الشوالي",
+  "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+},
   {
     "id": "match_2",
     "teamA": "الوداد الرياضي",
@@ -19,6 +20,7 @@
     "time": "18:00",
     "tournament": "البطولة الاحترافية إنوي",
     "channelName": "Arryadia HD",
+    "commentator": "عصام الشوالي",
     "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   }
 ]
