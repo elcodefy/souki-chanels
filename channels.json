@@ -530,5 +530,390 @@
     "category": "International",
     "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
     "streamUrl": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+  },
+  {
+    "___SECTION___": "========== CINEMA & SERIES ==========",
+    "id": "24hours_movies",
+    "name": "24hours Movies",
+    "category": "Cinéma & Séries",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://muxip-24hoursmovies-klowdtv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "cinelife",
+    "name": "CineLife",
+    "category": "Cinéma & Séries",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://magnolia-cinelife.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "haunt_tv",
+    "name": "Haunt TV",
+    "category": "Cinéma & Séries",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://bamca-haunttv-lg.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "moviedome",
+    "name": "Moviedome",
+    "category": "Cinéma & Séries",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://kochmedia-moviedome-lg.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "moviedome_family",
+    "name": "Moviedome Family",
+    "category": "Cinéma & Séries",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://kochmedia-moviedomefamily-lg.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "movies4free",
+    "name": "Movies4Free",
+    "category": "Cinéma & Séries",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://movies4free-lg.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "mst3k",
+    "name": "MST3K",
+    "category": "Cinéma & Séries",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://mst3k-localnow.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "rialto",
+    "name": "Rialto",
+    "category": "Cinéma & Séries",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "shoutfactory_tv",
+    "name": "Shoutfactory TV",
+    "category": "Cinéma & Séries",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://shoutfactory-localnow.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "thefirst",
+    "name": "Thefirst",
+    "category": "Cinéma & Séries",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://redseat-thefirst-localnow.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "uptv_aspire",
+    "name": "UpTV Aspire",
+    "category": "Cinéma & Séries",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "young_hollywood",
+    "name": "Young Hollywood",
+    "category": "Cinéma & Séries",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://younghollywood-tcl.amagi.tv/playlist.m3u8"
+  },
+
+  {
+    "___SECTION___": "========== CUISINE & LIFESTYLE ==========",
+    "id": "bon_appetit",
+    "name": "Bon appetit",
+    "category": "Cuisine & Lifestyle",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://bonappetit-roku-us.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "gusto_food_tv",
+    "name": "Gusto Food TV",
+    "category": "Cuisine & Lifestyle",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://amg01077-gusto-gustous-distro.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "jamie_oliver_channel",
+    "name": "Jamie Oliver Channel",
+    "category": "Cuisine & Lifestyle",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://jamieoliver-xumo.amagi.tv/playlist.m3u8"
+  },
+
+  {
+    "___SECTION___": "========== JEUNESSE / KIDS ==========",
+    "id": "brattv",
+    "name": "BratTV",
+    "category": "Jeunesse / Kids",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://brat-tcl.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "moonbug_kids_tv",
+    "name": "Moonbug Kids TV",
+    "category": "Jeunesse / Kids",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "petclub",
+    "name": "Petclub",
+    "category": "Jeunesse / Kids",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://petclub-samsungaus.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "ryan_and_friends_kids_tv",
+    "name": "Ryan and Friends Kids TV",
+    "category": "Jeunesse / Kids",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "sensical_kids_tv",
+    "name": "Sensical Kids TV",
+    "category": "Jeunesse / Kids",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://sensical2up-oando.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "zoomoo_kids",
+    "name": "ZooMoo Kids",
+    "category": "Jeunesse / Kids",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+  },
+
+  {
+    "___SECTION___": "========== DOCUMENTAIRES & NATURE ==========",
+    "id": "awe",
+    "name": "AWE",
+    "category": "Documentaires",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://awe-lg.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "awe_encore",
+    "name": "AWE Encore",
+    "category": "Documentaires",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://aweencore-tcl.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "curiosity_africa",
+    "name": "Curiosity Africa",
+    "category": "Documentaires",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://curiosity-africa.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "huntstream",
+    "name": "HuntStream",
+    "category": "Documentaires",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://huntstream-viewlift.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "outside_tv",
+    "name": "Outside TV",
+    "category": "Documentaires",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://outsidetv-oando.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "real_crime_tv",
+    "name": "Real Crime TV",
+    "category": "Documentaires",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "real_wild",
+    "name": "Real Wild",
+    "category": "Documentaires",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://lds-realwild-vizio.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "rush_tv",
+    "name": "Rush TV",
+    "category": "Documentaires",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://rush-redbox.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "timeline",
+    "name": "Timeline",
+    "category": "Documentaires",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://lds-timeline-plex.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "timeline_tv",
+    "name": "Timeline TV",
+    "category": "Documentaires",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://timeline-samsung-uk.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "wild_earth_tv",
+    "name": "Wild Earth TV",
+    "category": "Documentaires",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "wonder",
+    "name": "Wonder",
+    "category": "Documentaires",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://lds-wonder-plex.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "wonder_tv",
+    "name": "Wonder TV",
+    "category": "Documentaires",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
+  },
+
+  {
+    "___SECTION___": "========== SPORTS ==========",
+    "id": "hnc_sports",
+    "name": "HNC Sports",
+    "category": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "hardknocks",
+    "name": "Hardknocks",
+    "category": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://muxip-hardknocks-klowdtv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "sportsgrid",
+    "name": "SportsGrid",
+    "category": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://sportsgrid-plex.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "trace_sports",
+    "name": "Trace Sports",
+    "category": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "trace_sportstars",
+    "name": "Trace Sportstars",
+    "category": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://trace-sportstars-tcl.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "unbeaten_tv",
+    "name": "Unbeaten TV",
+    "category": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://unbeaten-tcl.amagi.tv/playlist.m3u8"
+  },
+
+  {
+    "___SECTION___": "========== ACTUALITES & INFOS ==========",
+    "id": "agora_tv",
+    "name": "Agora TV",
+    "category": "Actualités / News",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://agoratv-lg.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "black_news_channel",
+    "name": "Black News Channel",
+    "category": "Actualités / News",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://blacknewschannel-amazon.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "fox_livenow",
+    "name": "Fox LiveNOW",
+    "category": "Actualités / News",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "grvty",
+    "name": "Grvty",
+    "category": "Actualités / News",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://grvty-selecttv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "oan",
+    "name": "OAN",
+    "category": "Actualités / News",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://oan-lg.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "oan_plus",
+    "name": "OAN Plus",
+    "category": "Actualités / News",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://oan-plus-tcl.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "salem_news_channel",
+    "name": "Salem News Channel",
+    "category": "Actualités / News",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://snc-ono.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "td_ameritrade",
+    "name": "TD Ameritrade",
+    "category": "Actualités / News",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://tdameritrade-amazon.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "yahoo_finance",
+    "name": "Yahoo Finance",
+    "category": "Actualités / News",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://yahoofinance-localnow.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "zmg_tv",
+    "name": "ZMG TV",
+    "category": "Actualités / News",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://zmg-ruckusfactory.amagi.tv/playlist.m3u8"
+  },
+
+  {
+    "___SECTION___": "========== MUSIQUE & DIVERTISSEMENT ==========",
+    "id": "circle_country_music",
+    "name": "Circle Country Music",
+    "category": "Musique & Divertissement",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://circle-samsung.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "qwest_jazz_music",
+    "name": "Qwest Jazz Music",
+    "category": "Musique & Divertissement",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://qwest-jazz-plex.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "xite",
+    "name": "XITE",
+    "category": "Musique & Divertissement",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "https://xite-rakuten.amagi.tv/playlist.m3u8"
   }
+]
 ]
