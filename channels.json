@@ -1,5 +1,69 @@
 [
   {
+    "___SECTION___": "========== BEIN SPORT UHD ==========",
+    "id": "bein_sports_1_uhd",
+    "name": "BEIN SPORTS 1 UHD",
+    "category": "BEIN SPORT",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798772&extension=ts"
+  },
+  {
+    "id": "bein_sports_2_uhd",
+    "name": "BEIN SPORTS 2 UHD",
+    "category": "BEIN SPORT",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798773&extension=ts"
+  },
+  {
+    "id": "bein_sports_3_uhd",
+    "name": "BEIN SPORTS 3 UHD",
+    "category": "BEIN SPORT",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798788&extension=ts"
+  },
+  {
+    "id": "bein_sports_4_uhd",
+    "name": "BEIN SPORTS 4 UHD",
+    "category": "BEIN SPORT",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798789&extension=ts"
+  },
+  {
+    "id": "bein_sports_5_uhd",
+    "name": "BEIN SPORTS 5 UHD",
+    "category": "BEIN SPORT",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798790&extension=ts"
+  },
+  {
+    "id": "bein_sports_6_uhd",
+    "name": "BEIN SPORTS 6 UHD",
+    "category": "BEIN SPORT",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798791&extension=ts"
+  },
+  {
+    "id": "bein_sports_7_uhd",
+    "name": "BEIN SPORTS 7 UHD",
+    "category": "BEIN SPORT",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798792&extension=ts"
+  },
+  {
+    "id": "bein_sports_8_uhd",
+    "name": "BEIN SPORTS 8 UHD",
+    "category": "BEIN SPORT",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798793&extension=ts"
+  },
+  {
+    "id": "bein_sports_9_uhd",
+    "name": "BEIN SPORTS 9 UHD",
+    "category": "BEIN SPORT",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+    "streamUrl": "http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798794&extension=ts"
+  },
+  {
     "id": "mbc_masr_1",
     "name": "MBC Masr 1",
     "category": "Égypte",
