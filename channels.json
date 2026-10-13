@@ -3,7 +3,7 @@
     "id": "mbc_masr_1",
     "name": "MBC Masr 1",
     "category": "Égypte",
-    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/egypt/mbc-masr-eg.png",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/24hours_moviescountries/egypt/mbc-masr-eg.png",
     "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8"
   },
   {
@@ -915,5 +915,4 @@
     "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
     "streamUrl": "https://xite-rakuten.amagi.tv/playlist.m3u8"
   }
-]
 ]
