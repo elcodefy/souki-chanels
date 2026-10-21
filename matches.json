@@ -13,15 +13,19 @@
     "sources": [
       {
         "quality": "FHD",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        "url": "http://196.200.156.160/hls/ch1_src/index.m3u8"
       },
       {
         "quality": "HD",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        "url": "http://196.200.156.160/hls/ch1_hight/index.m3u8"
       },
       {
         "quality": "SD",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        "url": "http://196.200.156.160/hls/ch1_mid/index.m3u8"
+      }
+      {
+        "quality": "LOW",
+        "url": "http://196.200.156.160/hls/ch1_low/index.m3u8"
       }
     ]
   },
@@ -35,15 +39,23 @@
     "tournament": "البطولة الاحترافية إنوي",
     "channelName": "Arryadia HD",
     "commentator": "هشام فرج",
-    "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+   "streamUrl": "http://196.200.156.160/hls/ch1.m3u8",
     "sources": [
       {
+        "quality": "FHD",
+        "url": "http://196.200.156.160/hls/ch1_src/index.m3u8"
+      },
+      {
         "quality": "HD",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        "url": "http://196.200.156.160/hls/ch1_hight/index.m3u8"
       },
       {
         "quality": "SD",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        "url": "http://196.200.156.160/hls/ch1_mid/index.m3u8"
+      }
+      {
+        "quality": "LOW",
+        "url": "http://196.200.156.160/hls/ch1_low/index.m3u8"
       }
     ]
   }
