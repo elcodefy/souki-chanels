@@ -1,35 +1,5 @@
 [
   {
-    "id": "match_2",
-    "teamA": "الوداد الرياضي",
-    "teamALogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/wydad.png",
-    "teamB": "الرجاء الرياضي",
-    "teamBLogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/raja.png",
-    "time": "18:00",
-    "tournament": "البطولة الاحترافية إنوي",
-    "channelName": "Arryadia HD",
-    "commentator": "هشام فرج",
-    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-1080p.m3u8",
-    "sources": [
-      {
-        "quality": "1080",
-        "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-1080p.m3u8"
-      },
-      {
-        "quality": "720",
-        "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-720p.m3u8"
-      },
-      {
-        "quality": "480",
-        "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-480p.m3u8"
-      },
-      {
-        "quality": "240",
-        "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-240p.m3u8"
-      }
-    ]
-  },
-  {
     "id": "match_1",
     "teamA": "ريال مدريد",
     "teamALogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/real_madrid.png",
@@ -56,6 +26,36 @@
       {
         "quality": "240",
         "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-240p.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "match_2",
+    "teamA": "الوداد الرياضي",
+    "teamALogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/wydad.png",
+    "teamB": "الرجاء الرياضي",
+    "teamBLogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/raja.png",
+    "time": "18:00",
+    "tournament": "البطولة الاحترافية إنوي",
+    "channelName": "Arryadia HD",
+    "commentator": "هشام فرج",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-1080p.m3u8",
+    "sources": [
+      {
+        "quality": "1080",
+        "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-1080p.m3u8"
+      },
+      {
+        "quality": "720",
+        "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-720p.m3u8"
+      },
+      {
+        "quality": "480",
+        "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-480p.m3u8"
+      },
+      {
+        "quality": "240",
+        "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-240p.m3u8"
       }
     ]
   }
