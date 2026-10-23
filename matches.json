@@ -9,23 +9,23 @@
     "tournament": "دوري أبطال أوروبا",
     "channelName": "beIN Sports HD 1",
     "commentator": "عصام الشوالي",
-    "streamUrl": "http://196.200.156.160/hls/ch1.m3u8",
+    "streamUrl": "",
     "sources": [
       {
-        "quality": "FHD",
-        "url": "http://196.200.156.160/hls/ch1_src/index.m3u8"
+        "quality": "1080",
+        "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-1080p.m3u8"
       },
       {
-        "quality": "HD",
-        "url": "http://196.200.156.160/hls/ch1_high/index.m3u8"
+        "quality": "720",
+        "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-720p.m3u8"
       },
       {
-        "quality": "SD",
-        "url": "http://196.200.156.160/hls/ch1_mid/index.m3u8"
+        "quality": "480",
+        "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-480p.m3u8"
       },
       {
-        "quality": "LOW",
-        "url": "http://196.200.156.160/hls/ch1_low/index.m3u8"
+        "quality": "240",
+        "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-240p.m3u8"
       }
     ]
   },
