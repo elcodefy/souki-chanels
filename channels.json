@@ -1,5 +1,197 @@
 [
   {
+    "id": "bein_1_1080p",
+    "name": "beIN Sports 1 (1080p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-1-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-1080p.m3u8"
+  },
+  {
+    "id": "bein_1_720p",
+    "name": "beIN Sports 1 (720p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-1-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-720p.m3u8"
+  },
+  {
+    "id": "bein_1_480p",
+    "name": "beIN Sports 1 (480p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-1-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-480p.m3u8"
+  },
+  {
+    "id": "bein_1_240p",
+    "name": "beIN Sports 1 (240p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-1-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-240p.m3u8"
+  },
+  {
+    "id": "bein_2_1080p",
+    "name": "beIN Sports 2 (1080p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-2-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-1080p.m3u8"
+  },
+  {
+    "id": "bein_2_720p",
+    "name": "beIN Sports 2 (720p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-2-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-720p.m3u8"
+  },
+  {
+    "id": "bein_2_480p",
+    "name": "beIN Sports 2 (480p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-2-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-480p.m3u8"
+  },
+  {
+    "id": "bein_2_240p",
+    "name": "beIN Sports 2 (240p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-2-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-240p.m3u8"
+  },
+  {
+    "id": "bein_3_1080p",
+    "name": "beIN Sports 3 (1080p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-3-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein3-1080p.m3u8"
+  },
+  {
+    "id": "bein_3_720p",
+    "name": "beIN Sports 3 (720p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-3-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein3-720p.m3u8"
+  },
+  {
+    "id": "bein_3_480p",
+    "name": "beIN Sports 3 (480p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-3-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein3-480p.m3u8"
+  },
+  {
+    "id": "bein_3_240p",
+    "name": "beIN Sports 3 (240p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-3-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein3-240p.m3u8"
+  },
+  {
+    "id": "bein_4_1080p",
+    "name": "beIN Sports 4 (1080p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-4-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein4-1080p.m3u8"
+  },
+  {
+    "id": "bein_4_720p",
+    "name": "beIN Sports 4 (720p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-4-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein4-720p.m3u8"
+  },
+  {
+    "id": "bein_4_480p",
+    "name": "beIN Sports 4 (480p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-4-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein4-480p.m3u8"
+  },
+  {
+    "id": "bein_4_240p",
+    "name": "beIN Sports 4 (240p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-4-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein4-240p.m3u8"
+  },
+  {
+    "id": "bein_5_1080p",
+    "name": "beIN Sports 5 (1080p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-5-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein5-1080p.m3u8"
+  },
+  {
+    "id": "bein_5_720p",
+    "name": "beIN Sports 5 (720p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-5-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein5-720p.m3u8"
+  },
+  {
+    "id": "bein_5_480p",
+    "name": "beIN Sports 5 (480p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-5-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein5-480p.m3u8"
+  },
+  {
+    "id": "bein_5_240p",
+    "name": "beIN Sports 5 (240p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-5-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein5-240p.m3u8"
+  },
+  {
+    "id": "bein_6_1080p",
+    "name": "beIN Sports 6 (1080p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-6-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein6-1080p.m3u8"
+  },
+  {
+    "id": "bein_6_720p",
+    "name": "beIN Sports 6 (720p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-6-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein6-720p.m3u8"
+  },
+  {
+    "id": "bein_6_480p",
+    "name": "beIN Sports 6 (480p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-6-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein6-480p.m3u8"
+  },
+  {
+    "id": "bein_6_240p",
+    "name": "beIN Sports 6 (240p)",
+    "category": "BEIN SPORT",
+    "country": "Sports",
+    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-6-qa.png",
+    "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein6-240p.m3u8"
+  },
+  {
     "id": "mbc_masr_1",
     "name": "MBC Masr 1",
     "category": "Égypte",
