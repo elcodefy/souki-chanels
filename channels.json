@@ -195,13 +195,6 @@
     "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein6-240p.m3u8"
   },
   {
-    "id": "mbc_masr_1",
-    "name": "MBC Masr 1",
-    "category": "Égypte",
-    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/egypt/mbc-masr-eg.png",
-    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8"
-  },
-  {
     "id": "mbc_masr_2",
     "name": "MBC Masr 2",
     "category": "Égypte",
