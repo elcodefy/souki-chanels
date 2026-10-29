@@ -1,5 +1,93 @@
 [
   {
+    "id": "2m_national",
+    "name": "2M National",
+    "category": "Maroc",
+    "country": "Généraliste",
+    "logoUrl": "https://i.imgur.com/PJYTfHi.png",
+    "streamUrl": "http://185.9.2.18/chid_218/index.m3u8"
+  },
+  {
+    "id": "2m_monde_360p",
+    "name": "2M Monde (360p)",
+    "category": "Maroc",
+    "country": "Généraliste",
+    "logoUrl": "https://i.imgur.com/MvpntzA.png",
+    "streamUrl": "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8"
+  },
+  {
+    "id": "2m_monde_plus1_1080p",
+    "name": "2M Monde +1 (1080p)",
+    "category": "Maroc",
+    "country": "Généraliste",
+    "logoUrl": "https://i.imgur.com/MvpntzA.png",
+    "streamUrl": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8"
+  },
+  {
+    "id": "al_maghribia_1080p",
+    "name": "Al Maghribia (1080p)",
+    "category": "Maroc",
+    "country": "Généraliste",
+    "logoUrl": "https://i.imgur.com/7GaahYh.png",
+    "streamUrl": "http://185.9.2.18/chid_205/index.m3u8"
+  },
+  {
+    "id": "arryadia_720p",
+    "name": "Arryadia (720p)",
+    "category": "Maroc",
+    "country": "Sport",
+    "logoUrl": "https://i.imgur.com/XjzK3gZ.png",
+    "streamUrl": "http://149.100.11.252:8000/play/a065/index.m3u8"
+  },
+  {
+    "id": "chada_tv_720p",
+    "name": "Chada TV (720p)",
+    "category": "Maroc",
+    "country": "Variétés",
+    "logoUrl": "https://freebox.cdn.scw.iliad.fr/medium_Logo_chada_tv_2ee1412d38.png",
+    "streamUrl": "https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8"
+  },
+  {
+    "id": "mbc5_1080p",
+    "name": "MBC 5 (1080p)",
+    "category": "Maroc",
+    "country": "Divertissement",
+    "logoUrl": "https://i.imgur.com/fRWaDyF.png",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8"
+  },
+  {
+    "id": "medi1tv_afrique_1080p",
+    "name": "Medi1TV Afrique (1080p)",
+    "category": "Maroc",
+    "country": "Information",
+    "logoUrl": "https://i.imgur.com/a20DHnj.png",
+    "streamUrl": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8"
+  },
+  {
+    "id": "medi1tv_arabic_1080p",
+    "name": "Medi1TV Arabic (1080p)",
+    "category": "Maroc",
+    "country": "Information",
+    "logoUrl": "https://i.imgur.com/3YsZPY6.jpeg",
+    "streamUrl": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8"
+  },
+  {
+    "id": "medi1tv_maghreb_1080p",
+    "name": "Medi1TV Maghreb (1080p)",
+    "category": "Maroc",
+    "country": "Information",
+    "logoUrl": "https://i.imgur.com/F5OFQsp.jpeg",
+    "streamUrl": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8"
+  },
+  {
+    "id": "story_channel_tv_720p",
+    "name": "StoryChannel TV (720p)",
+    "category": "Maroc",
+    "country": "Culture",
+    "logoUrl": "https://i.imgur.com/ZBV6xph.png",
+    "streamUrl": "https://136044159.r.cdnsun.net/storychannel.m3u8"
+  },
+  {
     "id": "bein_1_1080p",
     "name": "beIN Sports 1",
     "category": "BEIN SPORT",
