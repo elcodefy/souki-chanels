@@ -70,5 +70,7 @@
     "channelName": "beIN Sports HD 1",
     "commentator": "عصام الشوالي",
     "streamUrl": "http://196.200.156.190/master.m3u8",
+    "sources": [
+    ]
   }
 ]
