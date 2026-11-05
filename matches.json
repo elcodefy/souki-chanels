@@ -69,53 +69,23 @@
     "tournament": "دوري أبطال أوروبا",
     "channelName": "beIN Sports HD 1",
     "commentator": "عصام الشوالي",
-    "streamUrl": "http://196.200.156.190/master.m3u8",
+    "streamUrl": "http://196.200.156.190/dispatch",
     "sources": [
       {
         "quality": "1080",
-        "url": "http://196.200.156.190/master.m3u8"
+        "url": "http://196.200.156.190/dispatch"
       },
       {
         "quality": "720",
-        "url": "http://196.200.156.190/master.m3u8"
+        "url": "http://196.200.156.190/dispatch"
       },
       {
         "quality": "480",
-        "url": "http://196.200.156.190/master.m3u8"
+        "url": "http://196.200.156.190/dispatch"
       },
       {
         "quality": "240",
-        "url": "http://196.200.156.190/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "match_4",
-    "teamA": "Real Madrid",
-    "teamALogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/real_madrid.png",
-    "teamB": "Barcelona",
-    "teamBLogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/barcelona.png",
-    "time": "23:00",
-    "tournament": "دوري أبطال أوروبا",
-    "channelName": "beIN Sports HD 1",
-    "commentator": "عصام الشوالي",
-    "streamUrl": "http://196.200.156.190/master.m3u8",
-    "sources": [
-      {
-        "quality": "1080",
-        "url": "http://196.200.156.190/master.m3u8"
-      },
-      {
-        "quality": "720",
-        "url": "http://196.200.156.190/master.m3u8"
-      },
-      {
-        "quality": "480",
-        "url": "http://196.200.156.190/master.m3u8"
-      },
-      {
-        "quality": "240",
-        "url": "http://196.200.156.190/master.m3u8"
+        "url": "http://196.200.156.190/dispatch"
       }
     ]
   }
