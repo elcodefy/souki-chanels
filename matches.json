@@ -69,23 +69,23 @@
     "tournament": "دوري أبطال أوروبا",
     "channelName": "beIN Sports HD 1",
     "commentator": "عصام الشوالي",
-    "streamUrl": "http://196.200.156.190/master.m3u8",
+    "streamUrl": "http://196.200.156.184/master.m3u8",
     "sources": [
       {
         "quality": "1080",
-        "url": "http://196.200.156.190/master.m3u8"
+        "url": "http://196.200.156.184/master.m3u8"
       },
       {
         "quality": "720",
-        "url": "http://196.200.156.190/master.m3u8"
+        "url": "http://196.200.156.184/master.m3u8"
       },
       {
         "quality": "480",
-        "url": "http://196.200.156.190/master.m3u8"
+        "url": "http://196.200.156.184/master.m3u8"
       },
       {
         "quality": "240",
-        "url": "http://196.200.156.190/master.m3u8"
+        "url": "http://196.200.156.184/master.m3u8"
       }
     ]
   }
