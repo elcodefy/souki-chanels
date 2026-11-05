@@ -73,7 +73,7 @@
     "sources": [
       {
         "quality": "1080",
-        "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-1080p.m3u8"
+        "url": "http://196.200.156.190/dispatch"
       },
       {
         "quality": "720",
