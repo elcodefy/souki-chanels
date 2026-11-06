@@ -69,23 +69,47 @@
     "tournament": "دوري أبطال أوروبا",
     "channelName": "beIN Sports HD 1",
     "commentator": "عصام الشوالي",
-    "streamUrl": "http://196.200.156.190/dispatch",
+    "streamUrl": "http://196.200.156.190/dispatch/ch1.m3u8",
     "sources": [
       {
         "quality": "1080",
-        "url": "http://196.200.156.190/dispatch"
-      },
+        "url": "http://196.200.156.190/dispatch/ch1.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "match_3",
+    "teamA": "Real Madrid",
+    "teamALogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/real_madrid.png",
+    "teamB": "Barcelona",
+    "teamBLogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/barcelona.png",
+    "time": "22:00",
+    "tournament": "دوري أبطال أوروبا",
+    "channelName": "beIN Sports HD 1",
+    "commentator": "عصام الشوالي",
+    "streamUrl": "http://196.200.156.190/dispatch/ch2.m3u8",
+    "sources": [
       {
-        "quality": "720",
-        "url": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-720p.m3u8"
-      },
+        "quality": "1080",
+        "url": "http://196.200.156.190/dispatch/ch2.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "match_3",
+    "teamA": "Real Madrid",
+    "teamALogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/real_madrid.png",
+    "teamB": "Barcelona",
+    "teamBLogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/barcelona.png",
+    "time": "22:00",
+    "tournament": "دوري أبطال أوروبا",
+    "channelName": "beIN Sports HD 1",
+    "commentator": "عصام الشوالي",
+    "streamUrl": "http://196.200.156.190/dispatch/ch3.m3u8",
+    "sources": [
       {
-        "quality": "480",
-        "url": "http://196.200.156.190/dispatch"
-      },
-      {
-        "quality": "240",
-        "url": "http://196.200.156.190/dispatch"
+        "quality": "1080",
+        "url": "http://196.200.156.190/dispatch/ch3.m3u8"
       }
     ]
   }
