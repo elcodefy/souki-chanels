@@ -81,6 +81,7 @@
     "name": "beIN Sports 1",
     "category": "BEIN SPORT",
     "country": "Qualité 1080p",
+    "categoryImageUrl": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Categories/bein.jpg",
     "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/qatar/bein-sports-1-qa.png",
     "streamUrl": "https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-1080p.m3u8"
   },
