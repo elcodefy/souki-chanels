@@ -2148,6 +2148,202 @@
       "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
       "streamUrl": "https://i.mjh.nz/.r/7flix-syd.m3u8",
       "categories": ["International/Australia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "el_destape__",
+      "name": "El Destape Ⓨ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.youtube.com/c/eldestapetv/live",
+      "categories": ["International/Argentina", "News"]
+    },
+    {
+      "id": "c5n__",
+      "name": "C5N Ⓨ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.youtube.com/c/c5n/live",
+      "categories": ["International/Argentina", "News"]
+    },
+    {
+      "id": "ln___",
+      "name": "LN+ Ⓨ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.youtube.com/c/LaNacionMas/live",
+      "categories": ["International/Argentina", "News"]
+    },
+    {
+      "id": "_perfil",
+      "name": "+Perfil",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8",
+      "categories": ["International/Argentina", "News"]
+    },
+    {
+      "id": "telemax",
+      "name": "Telemax",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8",
+      "categories": ["International/Argentina", "News"]
+    },
+    {
+      "id": "net_tv",
+      "name": "Net TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
+      "categories": ["International/Argentina", "News"]
+    },
+    {
+      "id": "barricada_tv",
+      "name": "Barricada TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.youtube.com/channel/UC6YundoLrEuBJaPp_oEPWaA/live",
+      "categories": ["International/Argentina", "News"]
+    },
+    {
+      "id": "urbana_tev_",
+      "name": "Urbana Tevé",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.youtube.com/channel/UCTnbbQUGmWEKeCq9wWoyN0g/live",
+      "categories": ["International/Argentina", "News"]
+    },
+    {
+      "id": "comarca_tv",
+      "name": "Comarca TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.youtube.com/c/ComarcaTV/live",
+      "categories": ["International/Argentina", "News"]
+    },
+    {
+      "id": "el_trece",
+      "name": "El Trece",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
+      "categories": ["International/Argentina", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "telefe",
+      "name": "Telefe",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
+      "categories": ["International/Argentina", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "am_rica",
+      "name": "América",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
+      "categories": ["International/Argentina", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "a24__",
+      "name": "A24 Ⓨ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.youtube.com/c/A24com/live",
+      "categories": ["International/Argentina", "News"]
+    },
+    {
+      "id": "kentron_tv__",
+      "name": "Kentron TV Ⓢ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://stream.mcquack.net/39/index.m3u8",
+      "categories": ["International/Armenia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "armenia_tv__",
+      "name": "Armenia TV Ⓢ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://stream.mcquack.net/175/index.m3u8",
+      "categories": ["International/Armenia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "10_hd",
+      "name": "10 HD",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://i.mjh.nz/.r/10-nsw.m3u8",
+      "categories": ["International/Australia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "abc",
+      "name": "ABC",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://c.mjh.nz/abc-nsw.m3u8",
+      "categories": ["International/Australia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "seven",
+      "name": "Seven",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://i.mjh.nz/.r/seven-syd.m3u8",
+      "categories": ["International/Australia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "nine",
+      "name": "Nine",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://i.mjh.nz/.r/channel-9-nsw.m3u8",
+      "categories": ["International/Australia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "10_peach",
+      "name": "10 Peach",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://i.mjh.nz/.r/10peach-nsw.m3u8",
+      "categories": ["International/Australia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "10_bold",
+      "name": "10 Bold",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8",
+      "categories": ["International/Australia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "tvsn",
+      "name": "TVSN",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8",
+      "categories": ["International/Australia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "abc_kids",
+      "name": "ABC Kids",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://c.mjh.nz/abc-kids.m3u8",
+      "categories": ["International/Australia", "Jeunesse / Kids"]
+    },
+    {
+      "id": "abc_me",
+      "name": "ABC Me",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://c.mjh.nz/abc-me.m3u8",
+      "categories": ["International/Australia", "Jeunesse / Kids"]
+    },
+    {
+      "id": "abc_news",
+      "name": "ABC News",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://c.mjh.nz/abc-news.m3u8",
+      "categories": ["International/Australia", "News"]
+    },
+    {
+      "id": "7two",
+      "name": "7two",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://i.mjh.nz/.r/7two-syd.m3u8",
+      "categories": ["International/Australia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "7mate",
+      "name": "7mate",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://i.mjh.nz/.r/7mate-syd.m3u8",
+      "categories": ["International/Australia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "7flix",
+      "name": "7flix",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://i.mjh.nz/.r/7flix-syd.m3u8",
+      "categories": ["International/Australia", "Cinéma & Divertissement"]
     }
   ]
 }
