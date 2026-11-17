@@ -41,7 +41,8 @@
     { "name": "International/Faroe Islands", "imageUrl": null },
     { "name": "International/Finland", "imageUrl": null },
     { "name": "International/Georgia", "imageUrl": null },
-    { "name": "International/Germany", "imageUrl": null }
+    { "name": "International/Germany", "imageUrl": null },
+    { "name": "International/Greece", "imageUrl": null }
   ],
   "channels": [
     {
@@ -2931,6 +2932,39 @@
   { "id": "ndr_hamburg__", "name": "NDR Hamburg Ⓖ", "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png", "streamUrl": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8", "categories": ["International/Germany", "Cinéma & Divertissement"] },
   { "id": "ndr_mecklenburg_vorpommern__", "name": "NDR Mecklenburg-Vorpommern Ⓖ", "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png", "streamUrl": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8", "categories": ["International/Germany", "Cinéma & Divertissement"] },
   { "id": "ndr_niedersachsen__", "name": "NDR Niedersachsen Ⓖ", "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png", "streamUrl": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8", "categories": ["International/Germany", "Cinéma & Divertissement"] },
-  { "id": "ndr_schleswig_holstein__", "name": "NDR Schleswig-Holstein Ⓖ", "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png", "streamUrl": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8", "categories": ["International/Germany", "Cinéma & Divertissement"] }
+  { "id": "ndr_schleswig_holstein__", "name": "NDR Schleswig-Holstein Ⓖ", "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png", "streamUrl": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8", "categories": ["International/Germany", "Cinéma & Divertissement"] },
+  { "id": "sr__", "name": "SR Ⓖ", "logoUrl": null, "streamUrl": "https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8", "categories": ["International/Germany", "Cinéma & Divertissement"] },
+  { "id": "wdr__", "name": "WDR Ⓖ", "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WDR_Dachmarke.svg/512px-WDR_Dachmarke.svg.png", "streamUrl": "https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8", "categories": ["International/Germany", "Cinéma & Divertissement"] },
+  { "id": "ndr_international", "name": "NDR International", "logoUrl": null, "streamUrl": "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8", "categories": ["International/Germany", "Cinéma & Divertissement"] },
+  { "id": "ert_news", "name": "ERT News", "logoUrl": null, "streamUrl": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd", "categories": ["International/Greece", "News"] },
+  { "id": "ert_cosmos", "name": "ERT Cosmos", "logoUrl": null, "streamUrl": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.mpd", "categories": ["International/Greece", "Cinéma & Divertissement"] },
+  { "id": "ert_sports_1", "name": "ERT Sports 1", "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/512px-ERTSPORTS_logo_2020.svg.png", "streamUrl": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports1/default/index.mpd", "categories": ["International/Greece", "Sports"] },
+  { "id": "ert_sports_2", "name": "ERT Sports 2", "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/512px-ERTSPORTS_logo_2020.svg.png", "streamUrl": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports2/default/index.mpd", "categories": ["International/Greece", "Sports"] },
+  { "id": "ert_sports_3", "name": "ERT Sports 3", "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/512px-ERTSPORTS_logo_2020.svg.png", "streamUrl": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports3/default/index.mpd", "categories": ["International/Greece", "Sports"] },
+  { "id": "ert_sports_4", "name": "ERT Sports 4", "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/512px-ERTSPORTS_logo_2020.svg.png", "streamUrl": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports4/default/index.mpd", "categories": ["International/Greece", "Sports"] },
+  { "id": "ert_kids__", "name": "ERT Kids Ⓖ", "logoUrl": null, "streamUrl": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.mpd", "categories": ["International/Greece", "Jeunesse / Kids"] },
+  { "id": "vouli_tv", "name": "Vouli TV", "logoUrl": null, "streamUrl": "https://diavlos-cache.cnt.grnet.gr/parltv/webtv-1b.sdp/playlist.m3u8", "categories": ["International/Greece", "News"] },
+  { "id": "mega_news", "name": "Mega News", "logoUrl": null, "streamUrl": "https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8", "categories": ["International/Greece", "News"] },
+  { "id": "star", "name": "Star", "logoUrl": null, "streamUrl": "https://livestar.siliconweb.com/starvod/star4/star4.m3u8", "categories": ["International/Greece", "Cinéma & Divertissement"] },
+  { "id": "star_international", "name": "Star International", "logoUrl": null, "streamUrl": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8", "categories": ["International/Greece", "Cinéma & Divertissement"] },
+  { "id": "alphatv", "name": "AlphaTV", "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Alpha_TV_Logo_neu.png/512px-Alpha_TV_Logo_neu.png", "streamUrl": "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8", "categories": ["International/Greece", "Cinéma & Divertissement"] },
+  { "id": "skai_tv", "name": "Skai TV", "logoUrl": null, "streamUrl": "http://skai-live.siliconweb.com/media/cambria4/index.m3u8", "categories": ["International/Greece", "Cinéma & Divertissement"] },
+  { "id": "open_tv", "name": "Open TV", "logoUrl": null, "streamUrl": "https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8", "categories": ["International/Greece", "Cinéma & Divertissement"] },
+  { "id": "euronews_greek", "name": "Euronews Greek", "logoUrl": null, "streamUrl": "https://www.youtube.com/euronewsGreek/live", "categories": ["International/Greece", "News"] },
+  { "id": "action24", "name": "Action24", "logoUrl": null, "streamUrl": "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8", "categories": ["International/Greece", "News"] },
+  { "id": "alert", "name": "Alert", "logoUrl": null, "streamUrl": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8", "categories": ["International/Greece", "News"] },
+  { "id": "blue_sky", "name": "Blue Sky", "logoUrl": null, "streamUrl": "https://www.youtube.com/channel/UCBuEruzW_f-Qpj_sABmuYSg/live", "categories": ["International/Greece", "Cinéma & Divertissement"] },
+  { "id": "high_tv", "name": "High TV", "logoUrl": null, "streamUrl": "https://live.streams.ovh/hightv/hightv/playlist.m3u8", "categories": ["International/Greece", "Cinéma & Divertissement"] },
+  { "id": "kontra", "name": "Kontra", "logoUrl": null, "streamUrl": "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8", "categories": ["International/Greece", "News"] },
+  { "id": "mad__", "name": "Mad Ⓨ", "logoUrl": null, "streamUrl": "https://www.youtube.com/c/madtvgreece/live", "categories": ["International/Greece", "Radio & Musique"] },
+  { "id": "naftemporiki_tv", "name": "Naftemporiki TV", "logoUrl": null, "streamUrl": "https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8", "categories": ["International/Greece", "News"] },
+  { "id": "one_channel", "name": "One Channel", "logoUrl": null, "streamUrl": "https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8", "categories": ["International/Greece", "Cinéma & Divertissement"] },
+  { "id": "4e", "name": "4E", "logoUrl": null, "streamUrl": "http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8", "categories": ["International/Greece", "Culture & Spiritualité"] },
+  { "id": "dion", "name": "DION", "logoUrl": null, "streamUrl": "https://www.youtube.com/@diontileorash/live", "categories": ["International/Greece", "Cinéma & Divertissement"] },
+  { "id": "egnatia", "name": "Egnatia", "logoUrl": null, "streamUrl": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u", "categories": ["International/Greece", "News"] },
+  { "id": "euro", "name": "Euro", "logoUrl": null, "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8", "categories": ["International/Greece", "News"] },
+  { "id": "gnomi", "name": "Gnomi", "logoUrl": null, "streamUrl": "https://live.streams.ovh:8081/gnomitv/index.m3u8", "categories": ["International/Greece", "Cinéma & Divertissement"] },
+  { "id": "pella", "name": "Pella", "logoUrl": null, "streamUrl": "https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8", "categories": ["International/Greece", "Cinéma & Divertissement"] },
+  { "id": "pontos", "name": "Pontos", "logoUrl": null, "streamUrl": "https://www.youtube.com/@PontosTV/live", "categories": ["International/Greece", "Culture & Spiritualité"] }
   ]
 }
