@@ -118,6 +118,26 @@
     { "name": "International/Argentina", "imageUrl": null },
     { "name": "International/Armenia", "imageUrl": null },
     { "name": "International/Australia", "imageUrl": null }
+    { "name": "Arabe", "imageUrl": null },
+    { "name": "International", "imageUrl": null },
+    { "name": "News", "imageUrl": null },
+    { "name": "Cinéma & Divertissement", "imageUrl": null },
+    { "name": "Jeunesse / Kids", "imageUrl": null },
+    { "name": "Culture & Spiritualité", "imageUrl": null },
+    { "name": "Radio & Musique", "imageUrl": null },
+    { "name": "Arabe/Égypte", "imageUrl": null },
+    { "name": "International/Chile", "imageUrl": null },
+    { "name": "International/China", "imageUrl": null },
+    { "name": "International/Costa Rica", "imageUrl": null },
+    { "name": "International/Croatia", "imageUrl": null },
+    { "name": "International/Cyprus", "imageUrl": null },
+    { "name": "International/Czech Republic", "imageUrl": null },
+    { "name": "International/Denmark", "imageUrl": null },
+    { "name": "International/Dominican Republic", "imageUrl": null },
+    { "name": "International/Estonia", "imageUrl": null },
+    { "name": "International/Faroe Islands", "imageUrl": null },
+    { "name": "International/Finland", "imageUrl": null },
+    { "name": "International/France", "imageUrl": null }
   ],
   "channels": [
     {
@@ -2344,6 +2364,629 @@
       "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
       "streamUrl": "https://i.mjh.nz/.r/7flix-syd.m3u8",
       "categories": ["International/Australia", "Cinéma & Divertissement"]
+    },
+        {
+      "id": "bio_bio_tv",
+      "name": "Bio Bio TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
+      "categories": ["International/Chile", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "tvn_3",
+      "name": "TVN 3",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
+      "categories": ["International/Chile", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "canal_13",
+      "name": "Canal 13",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://redirector.dps.live/hls/13cl/playlist.m3u8",
+      "categories": ["International/Chile", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "t13_en_vivo",
+      "name": "T13 en vivo",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+      "categories": ["International/Chile", "News"]
+    },
+    {
+      "id": "13_entretenci_n",
+      "name": "13 Entretención",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8",
+      "categories": ["International/Chile", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "13_cultura",
+      "name": "13 Cultura",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
+      "categories": ["International/Chile", "Culture & Spiritualité"]
+    },
+    {
+      "id": "13_prime",
+      "name": "13 Prime",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8",
+      "categories": ["International/Chile", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "13_kids",
+      "name": "13 Kids",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8",
+      "categories": ["International/Chile", "Jeunesse / Kids"]
+    },
+    {
+      "id": "13_realities",
+      "name": "13 Realities",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8",
+      "categories": ["International/Chile", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "13_teleseries",
+      "name": "13 Teleseries",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
+      "categories": ["International/Chile", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "mega",
+      "name": "Mega",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
+      "categories": ["International/Chile", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "mega_2",
+      "name": "Mega 2",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8",
+      "categories": ["International/Chile", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "meganoticias",
+      "name": "Meganoticias",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8",
+      "categories": ["International/Chile", "News"]
+    },
+    {
+      "id": "cctv_1___",
+      "name": "CCTV-1 综合",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://74.91.26.218:82/live/cctv1hd.m3u8",
+      "categories": ["International/China", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "cctv_2___",
+      "name": "CCTV-2 财经",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://74.91.26.218:82/live/cctv2hd.m3u8",
+      "categories": ["International/China", "News"]
+    },
+    {
+      "id": "cctv_3___",
+      "name": "CCTV-3 综艺",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://74.91.26.218:82/live/cctv3hd.m3u8",
+      "categories": ["International/China", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "cctv_4________",
+      "name": "CCTV-4 中文国际（亚）",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://74.91.26.218:82/live/cctv4hd.m3u8",
+      "categories": ["International/China", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "cctv_6___",
+      "name": "CCTV-6 电影",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://69.30.245.50/live/cctv6.m3u8",
+      "categories": ["International/China", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "cctv_7_____",
+      "name": "CCTV-7 国防军事",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://74.91.26.218:82/live/cctv7hd.m3u8",
+      "categories": ["International/China", "News"]
+    },
+    {
+      "id": "cctv_8____",
+      "name": "CCTV-8 电视剧",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://74.91.26.218:82/live/cctv8hd.m3u8",
+      "categories": ["International/China", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "cctv_9___",
+      "name": "CCTV-9 纪录",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://74.91.26.218:82/live/cctv9hd.m3u8",
+      "categories": ["International/China", "Culture & Spiritualité"]
+    },
+    {
+      "id": "cctv_10___",
+      "name": "CCTV-10 科教",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://74.91.26.218:82/live/cctv10hd.m3u8",
+      "categories": ["International/China", "Culture & Spiritualité"]
+    },
+    {
+      "id": "cctv_11___",
+      "name": "CCTV-11 戏曲",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://74.91.26.218:82/live/cctv11hd.m3u8",
+      "categories": ["International/China", "Culture & Spiritualité"]
+    },
+    {
+      "id": "cctv_12_____",
+      "name": "CCTV-12 社会与法",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://74.91.26.218:82/live/cctv12hd.m3u8",
+      "categories": ["International/China", "News"]
+    },
+    {
+      "id": "cctv_13___",
+      "name": "CCTV-13 新闻",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://74.91.26.218:82/live/cctv13hd.m3u8",
+      "categories": ["International/China", "News"]
+    },
+    {
+      "id": "cctv_14___",
+      "name": "CCTV-14 少儿",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://74.91.26.218:82/live/cctv14hd.m3u8",
+      "categories": ["International/China", "Jeunesse / Kids"]
+    },
+    {
+      "id": "cctv_15___",
+      "name": "CCTV-15 音乐",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://74.91.26.218:82/live/cctv15hd.m3u8",
+      "categories": ["International/China", "Radio & Musique"]
+    },
+    {
+      "id": "cctv_17_____",
+      "name": "CCTV-17 农业农村",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://74.91.26.218:82/live/cctv17hd.m3u8",
+      "categories": ["International/China", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "fztv_1_news_______",
+      "name": "FZTV-1 News 新闻综合频道",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://live.zohi.tv/video/s10001-fztv-1/index.m3u8",
+      "categories": ["International/China", "News"]
+    },
+    {
+      "id": "fztv_3_lifestyle_channel_____",
+      "name": "FZTV-3 Lifestyle Channel 生活频道",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://live.zohi.tv/video/s10001-fztv-3/index.m3u8",
+      "categories": ["International/China", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "fztv_4_children_____",
+      "name": "FZTV-4 Children 少儿频道",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://live.zohi.tv/video/s10001-fztv-4/index.m3u8",
+      "categories": ["International/China", "Jeunesse / Kids"]
+    },
+    {
+      "id": "tv_brics_chinese",
+      "name": "TV BRICS Chinese",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8",
+      "categories": ["International/China", "News"]
+    },
+    {
+      "id": "canal_1",
+      "name": "Canal 1",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8",
+      "categories": ["International/Costa Rica", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "canal_8",
+      "name": "Canal 8",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8",
+      "categories": ["International/Costa Rica", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "88_stereo",
+      "name": "88 Stereo",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
+      "categories": ["International/Costa Rica", "Radio & Musique"]
+    },
+    {
+      "id": "cmc_tv",
+      "name": "CMC TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://stream.cmctv.hr:49998/cmc/live.m3u8",
+      "categories": ["International/Croatia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "televizija_slavonije_i_baranje__stv_",
+      "name": "Televizija Slavonije i Baranje (STV)",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://89.201.163.244:8080/hls/hdmi.m3u8",
+      "categories": ["International/Croatia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "sbtv",
+      "name": "SBTV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://live.leveex.hr/hls/live.m3u8",
+      "categories": ["International/Croatia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "z1__",
+      "name": "Z1 Ⓨ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.youtube.com/@z1televizija/live",
+      "categories": ["International/Croatia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "tv_nova",
+      "name": "TV Nova",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://stream.agatin.hr:3727/live/tvnovalive.m3u8",
+      "categories": ["International/Croatia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "diadora",
+      "name": "Diadora",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://diadoratv.stream/live/diadora/playlist.m3u8",
+      "categories": ["International/Croatia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "tv_jadran",
+      "name": "TV Jadran",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8",
+      "categories": ["International/Croatia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "tv_dalmacija__",
+      "name": "TV Dalmacija Ⓨ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.youtube.com/channel/UCvNIJIY4CM-T28UQgbUE4rQ/live",
+      "categories": ["International/Croatia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "n1_hrvatska__",
+      "name": "N1 Hrvatska Ⓨ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.youtube.com/@N1_Hrvatska/live",
+      "categories": ["International/Croatia", "News"]
+    },
+    {
+      "id": "rik_sat",
+      "name": "RIK Sat",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+      "categories": ["International/Cyprus", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "kibris_tv",
+      "name": "Kibris TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://old.kuzeykibris.tv/m3u8/kktv.m3u8",
+      "categories": ["International/Cyprus", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "tv_2020__",
+      "name": "TV 2020 Ⓨ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.youtube.com/@TV2020KIBRIS/live",
+      "categories": ["International/Cyprus", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "__ko__",
+      "name": "Óčko Ⓢ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
+      "categories": ["International/Czech Republic", "Radio & Musique"]
+    },
+    {
+      "id": "__ko_star__",
+      "name": "Óčko Star Ⓢ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8",
+      "categories": ["International/Czech Republic", "Radio & Musique"]
+    },
+    {
+      "id": "__ko_expres__",
+      "name": "Óčko Expres Ⓢ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8",
+      "categories": ["International/Czech Republic", "Radio & Musique"]
+    },
+    {
+      "id": "_l_gr_origin_l__",
+      "name": "Šlágr Originál Ⓢ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://stream-13.mazana.tv/slagroriginal.m3u8s",
+      "categories": ["International/Czech Republic", "Radio & Musique"]
+    },
+    {
+      "id": "_l_gr_muzika__",
+      "name": "Šlágr Muzika Ⓢ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://stream-23.mazana.tv/slagrmuzika.m3u8s",
+      "categories": ["International/Czech Republic", "Radio & Musique"]
+    },
+    {
+      "id": "retro_music_tv__",
+      "name": "Retro Music TV Ⓢ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+      "categories": ["International/Czech Republic", "Radio & Musique"]
+    },
+    {
+      "id": "praha_tv",
+      "name": "Praha TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://1977134029.rsc.cdn77.org/1977134029/index.m3u8",
+      "categories": ["International/Czech Republic", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "v_chodocesk__tv",
+      "name": "Východoceská TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8",
+      "categories": ["International/Czech Republic", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "utv",
+      "name": "UTV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8",
+      "categories": ["International/Czech Republic", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "folketinget_tv",
+      "name": "Folketinget TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8",
+      "categories": ["International/Denmark", "News"]
+    },
+    {
+      "id": "tv_syd_",
+      "name": "TV Syd+",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://cdn.jwplayer.com/live/broadcast/bcZFHqNK.m3u8",
+      "categories": ["International/Denmark", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "tv_2_fyn",
+      "name": "TV 2/Fyn",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://cdn.jwplayer.com/live/broadcast/igp9r9oc.mpd",
+      "categories": ["International/Denmark", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "tv_2__st",
+      "name": "TV 2/Øst",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://grevsen.dk/live/catchuptv/catchuptv/16.m3u8",
+      "categories": ["International/Denmark", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "tv_2_nord",
+      "name": "TV 2/Nord",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://grevsen.dk/live/catchuptv/catchuptv/14.m3u8",
+      "categories": ["International/Denmark", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "tv_midt_vest",
+      "name": "TV/Midt-Vest",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://grevsen.dk/live/catchuptv/catchuptv/13.m3u8",
+      "categories": ["International/Denmark", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "tv_2__stjylland",
+      "name": "TV 2/Østjylland",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://grevsen.dk/live/catchuptv/catchuptv/17.m3u8",
+      "categories": ["International/Denmark", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "tv_2_bornholm",
+      "name": "TV 2/Bornholm",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8",
+      "categories": ["International/Denmark", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "kanal_hovedstaden",
+      "name": "Kanal Hovedstaden",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://khkbh.dk:8080/hls/livestream/index.m3u8",
+      "categories": ["International/Denmark", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "canal_rtvd_4",
+      "name": "Canal RTVD 4",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8",
+      "categories": ["International/Dominican Republic", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "alhayat_tv",
+      "name": "Alhayat TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8",
+      "categories": ["Arabe/Égypte", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "coptic_tv",
+      "name": "Coptic TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://ctv.icopts.app/CTV/index.fmp4.m3u8",
+      "categories": ["Arabe/Égypte", "Culture & Spiritualité"]
+    },
+    {
+      "id": "rotana_cinema",
+      "name": "Rotana Cinema",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8",
+      "categories": ["Arabe/Égypte", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "etv__",
+      "name": "ETV Ⓖ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://sb.err.ee/live/etv.m3u8",
+      "categories": ["International/Estonia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "etv2__",
+      "name": "ETV2 Ⓖ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://sb.err.ee/live/etv2.m3u8",
+      "categories": ["International/Estonia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "etv___",
+      "name": "ETV+ Ⓖ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://sb.err.ee/live/etvpluss.m3u8",
+      "categories": ["International/Estonia", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "taevas_tv7",
+      "name": "Taevas TV7",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8",
+      "categories": ["International/Estonia", "Culture & Spiritualité"]
+    },
+    {
+      "id": "life_tv_estonia",
+      "name": "Life TV Estonia",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://lifetv.bitflip.ee/live/stream2.m3u8",
+      "categories": ["International/Estonia", "Culture & Spiritualité"]
+    },
+    {
+      "id": "life_tv_europe",
+      "name": "Life TV Europe",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://lifetv.bitflip.ee/live/stream1.m3u8",
+      "categories": ["International/Estonia", "Culture & Spiritualité"]
+    },
+    {
+      "id": "tbn_baltia",
+      "name": "TBN Baltia",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8",
+      "categories": ["International/Estonia", "Culture & Spiritualité"]
+    },
+    {
+      "id": "kvf_sj_nvarp",
+      "name": "KVF Sjónvarp",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8",
+      "categories": ["International/Faroe Islands", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "tingvarp",
+      "name": "Tingvarp",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://play.kringvarp.fo/redirect/tingvarp/_definst_/smil:tingvarp.smil?type=m3u8",
+      "categories": ["International/Faroe Islands", "News"]
+    },
+    {
+      "id": "alfa__",
+      "name": "Alfa Ⓢ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&suiteItemId=230439940",
+      "categories": ["International/Finland", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "onnitv",
+      "name": "OnniTV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8?organizationId=83459409&suiteItemId=83459780",
+      "categories": ["International/Finland", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "taivas_tv7",
+      "name": "Taivas TV7",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8",
+      "categories": ["International/Finland", "Culture & Spiritualité"]
+    },
+    {
+      "id": "himlen_tv7",
+      "name": "Himlen TV7",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://vod.tv7.fi/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8",
+      "categories": ["International/Finland", "Culture & Spiritualité"]
+    },
+    {
+      "id": "mtv_uutiset_live",
+      "name": "MTV Uutiset Live",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://live.streaming.a2d.tv/content/channels/uutiset/cmaf.m3u8",
+      "categories": ["International/Finland", "News"]
+    },
+    {
+      "id": "nopola_news",
+      "name": "Nopola News",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8",
+      "categories": ["International/Finland", "News"]
+    },
+    {
+      "id": "n_r_tv__",
+      "name": "När-TV Ⓢ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8",
+      "categories": ["International/Finland", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "sundom_tv__",
+      "name": "Sundom TV Ⓨ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.youtube.com/@SundomTV/live",
+      "categories": ["International/Finland", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "w_r_tv__",
+      "name": "Wör TV Ⓨ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.youtube.com/@wor-tvr.f.4461/live",
+      "categories": ["International/Finland", "Cinéma & Divertissement"]
+    },
+    {
+      "id": "j_rviradio_tv",
+      "name": "Järviradio TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8",
+      "categories": ["International/Finland", "Radio & Musique"]
+    },
+    {
+      "id": "lcp",
+      "name": "LCP",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://lcp.fr/le-live-lcp-tnt-5433",
+      "categories": ["International/France", "News"]
     }
   ]
 }
