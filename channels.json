@@ -95,6 +95,22 @@
     {
       "name": "International/Guatemala",
       "imageUrl": null
+    },
+    {
+      "name": "Cuisine & Lifestyle",
+      "imageUrl": null
+    },
+    {
+      "name": "International/Albania",
+      "imageUrl": null
+    },
+    {
+      "name": "International/Andorra",
+      "imageUrl": null
+    },
+    {
+      "name": "International/Argentina",
+      "imageUrl": null
     }
   ],
   "channels": [
@@ -1199,6 +1215,736 @@
       "categories": [
         "International/USA",
         "Cinéma & Divertissement"
+      ]
+    }
+    {
+      "id": "24hours_movies",
+      "name": "24hours Movies",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://muxip-24hoursmovies-klowdtv.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Cinéma & Divertissement"
+      ]
+    },
+    {
+      "id": "cinelife",
+      "name": "CineLife",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://magnolia-cinelife.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Cinéma & Divertissement"
+      ]
+    },
+    {
+      "id": "haunt_tv",
+      "name": "Haunt TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://bamca-haunttv-lg.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Cinéma & Divertissement"
+      ]
+    },
+    {
+      "id": "moviedome",
+      "name": "Moviedome",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://kochmedia-moviedome-lg.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Cinéma & Divertissement"
+      ]
+    },
+    {
+      "id": "moviedome_family",
+      "name": "Moviedome Family",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://kochmedia-moviedomefamily-lg.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Cinéma & Divertissement"
+      ]
+    },
+    {
+      "id": "movies4free",
+      "name": "Movies4Free",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://movies4free-lg.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Cinéma & Divertissement"
+      ]
+    },
+    {
+      "id": "mst3k",
+      "name": "MST3K",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://mst3k-localnow.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Cinéma & Divertissement"
+      ]
+    },
+    {
+      "id": "rialto",
+      "name": "Rialto",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Cinéma & Divertissement"
+      ]
+    },
+    {
+      "id": "shoutfactory_tv",
+      "name": "Shoutfactory TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://shoutfactory-localnow.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Cinéma & Divertissement"
+      ]
+    },
+    {
+      "id": "thefirst",
+      "name": "Thefirst",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://redseat-thefirst-localnow.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Cinéma & Divertissement"
+      ]
+    },
+    {
+      "id": "uptv_aspire",
+      "name": "UpTV Aspire",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Cinéma & Divertissement"
+      ]
+    },
+    {
+      "id": "young_hollywood",
+      "name": "Young Hollywood",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://younghollywood-tcl.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Cinéma & Divertissement"
+      ]
+    },
+    {
+      "id": "bon_appetit",
+      "name": "Bon appetit",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://bonappetit-roku-us.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Cuisine & Lifestyle"
+      ]
+    },
+    {
+      "id": "gusto_food_tv",
+      "name": "Gusto Food TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://amg01077-gusto-gustous-distro.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Cuisine & Lifestyle"
+      ]
+    },
+    {
+      "id": "jamie_oliver_channel",
+      "name": "Jamie Oliver Channel",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://jamieoliver-xumo.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/UK",
+        "Cuisine & Lifestyle"
+      ]
+    },
+    {
+      "id": "brattv",
+      "name": "BratTV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://brat-tcl.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Jeunesse / Kids"
+      ]
+    },
+    {
+      "id": "moonbug_kids_tv",
+      "name": "Moonbug Kids TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/UK",
+        "Jeunesse / Kids"
+      ]
+    },
+    {
+      "id": "petclub",
+      "name": "Petclub",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://petclub-samsungaus.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Jeunesse / Kids"
+      ]
+    },
+    {
+      "id": "ryan_and_friends_kids_tv",
+      "name": "Ryan and Friends Kids TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Jeunesse / Kids"
+      ]
+    },
+    {
+      "id": "sensical_kids_tv",
+      "name": "Sensical Kids TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://sensical2up-oando.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Jeunesse / Kids"
+      ]
+    },
+    {
+      "id": "zoomoo_kids",
+      "name": "ZooMoo Kids",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Jeunesse / Kids"
+      ]
+    },
+    {
+      "id": "awe",
+      "name": "AWE",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://awe-lg.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Culture & Spiritualité"
+      ]
+    },
+    {
+      "id": "awe_encore",
+      "name": "AWE Encore",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://aweencore-tcl.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Culture & Spiritualité"
+      ]
+    },
+    {
+      "id": "curiosity_africa",
+      "name": "Curiosity Africa",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://curiosity-africa.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Culture & Spiritualité"
+      ]
+    },
+    {
+      "id": "huntstream",
+      "name": "HuntStream",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://huntstream-viewlift.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Culture & Spiritualité"
+      ]
+    },
+    {
+      "id": "outside_tv",
+      "name": "Outside TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://outsidetv-oando.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Sports"
+      ]
+    },
+    {
+      "id": "real_crime_tv",
+      "name": "Real Crime TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Culture & Spiritualité"
+      ]
+    },
+    {
+      "id": "real_wild",
+      "name": "Real Wild",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://lds-realwild-vizio.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Culture & Spiritualité"
+      ]
+    },
+    {
+      "id": "rush_tv",
+      "name": "Rush TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://rush-redbox.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Culture & Spiritualité"
+      ]
+    },
+    {
+      "id": "channels_timeline",
+      "name": "Timeline",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Culture & Spiritualité"
+      ]
+    },
+    {
+      "id": "timeline_tv",
+      "name": "Timeline TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://timeline-samsung-uk.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/UK",
+        "Culture & Spiritualité"
+      ]
+    },
+    {
+      "id": "wild_earth_tv",
+      "name": "Wild Earth TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Culture & Spiritualité"
+      ]
+    },
+    {
+      "id": "wonder",
+      "name": "Wonder",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Culture & Spiritualité"
+      ]
+    },
+    {
+      "id": "wonder_tv",
+      "name": "Wonder TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://wonder-samsung-uk.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/UK",
+        "Culture & Spiritualité"
+      ]
+    },
+    {
+      "id": "hnc_sports",
+      "name": "HNC Sports",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/UK",
+        "Sports"
+      ]
+    },
+    {
+      "id": "hardknocks",
+      "name": "Hardknocks",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://muxip-hardknocks-klowdtv.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Sports"
+      ]
+    },
+    {
+      "id": "sportsgrid",
+      "name": "SportsGrid",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Sports"
+      ]
+    },
+    {
+      "id": "trace_sports",
+      "name": "Trace Sports",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/UK",
+        "Sports"
+      ]
+    },
+    {
+      "id": "trace_sportstars",
+      "name": "Trace Sportstars",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://trace-sportstars-tcl.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/UK",
+        "Sports"
+      ]
+    },
+    {
+      "id": "unbeaten_tv",
+      "name": "Unbeaten TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://unbeaten-tcl.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Sports"
+      ]
+    },
+    {
+      "id": "agora_tv",
+      "name": "Agora TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://agoratv-lg.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "News"
+      ]
+    },
+    {
+      "id": "black_news_channel",
+      "name": "Black News Channel",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://blacknewschannel-amazon.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "News"
+      ]
+    },
+    {
+      "id": "fox_livenow",
+      "name": "Fox LiveNOW",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "News"
+      ]
+    },
+    {
+      "id": "grvty",
+      "name": "Grvty",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://grvty-selecttv.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "News"
+      ]
+    },
+    {
+      "id": "oan",
+      "name": "OAN",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://oan-lg.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "News"
+      ]
+    },
+    {
+      "id": "oan_plus",
+      "name": "OAN Plus",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://oan-plus-tcl.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "News"
+      ]
+    },
+    {
+      "id": "salem_news_channel",
+      "name": "Salem News Channel",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://snc-ono.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "News"
+      ]
+    },
+    {
+      "id": "td_ameritrade",
+      "name": "TD Ameritrade",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://tdameritrade-amazon.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "News"
+      ]
+    },
+    {
+      "id": "yahoo_finance",
+      "name": "Yahoo Finance",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://yahoofinance-localnow.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "News"
+      ]
+    },
+    {
+      "id": "zmg_tv",
+      "name": "ZMGTV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.pmg",
+      "streamUrl": "https://zmg-ruckusfactory.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "News"
+      ]
+    },
+    {
+      "id": "circle_country_music",
+      "name": "Circle Country Music",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://circle-samsung.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Radio & Musique"
+      ]
+    },
+    {
+      "id": "qwest_jazz_music",
+      "name": "Qwest Jazz Music",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://qwest-jazz-plex.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Radio & Musique"
+      ]
+    },
+    {
+      "id": "xite",
+      "name": "XITE",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://xite-rakuten.amagi.tv/playlist.m3u8",
+      "categories": [
+        "International/USA",
+        "Radio & Musique"
+      ]
+    },
+    {
+      "id": "abc_news_albania__",
+      "name": "ABC News Albania Ⓣ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.twitch.tv/abcnewsal",
+      "categories": [
+        "International/Albania",
+        "News"
+      ]
+    },
+    {
+      "id": "albkanale_music_tv__",
+      "name": "AlbKanale Music TV Ⓢ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://albportal.net/albkanalemusic.m3u8",
+      "categories": [
+        "International/Albania",
+        "Radio & Musique"
+      ]
+    },
+    {
+      "id": "cna",
+      "name": "CNA",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://live1.mediadesk.al/cnatvlive.m3u8",
+      "categories": [
+        "International/Albania",
+        "News"
+      ]
+    },
+    {
+      "id": "euronews_albania__",
+      "name": "Euronews Albania Ⓨ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.youtube.com/@EuronewsAlbania/live",
+      "categories": [
+        "International/Albania",
+        "News"
+      ]
+    },
+    {
+      "id": "news_24__",
+      "name": "News 24 Ⓢ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://tv.balkanweb.com/news24/livestream/playlist.m3u8",
+      "categories": [
+        "International/Albania",
+        "News"
+      ]
+    },
+    {
+      "id": "ora_news",
+      "name": "Ora News",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://live1.mediadesk.al/oranews.m3u8",
+      "categories": [
+        "International/Albania",
+        "News"
+      ]
+    },
+    {
+      "id": "syri",
+      "name": "Syri",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://stream.syritv.al/live/syritv/playlist.m3u8",
+      "categories": [
+        "International/Albania",
+        "News"
+      ]
+    },
+    {
+      "id": "top_news__",
+      "name": "Top News Ⓣ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.twitch.tv/topnewsal",
+      "categories": [
+        "International/Albania",
+        "News"
+      ]
+    },
+    {
+      "id": "tropoja",
+      "name": "Tropoja",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8",
+      "categories": [
+        "International/Albania",
+        "Cinéma & Divertissement"
+      ]
+    },
+    {
+      "id": "tv_7_albania",
+      "name": "TV 7 Albania",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://rpn3.bozztv.com/albaniatv/Med7-TV7Tirana/index.m3u8",
+      "categories": [
+        "International/Albania",
+        "Cinéma & Divertissement"
+      ]
+    },
+    {
+      "id": "tv_apollon__",
+      "name": "TV Apollon Ⓢ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1",
+      "categories": [
+        "International/Albania",
+        "Cinéma & Divertissement"
+      ]
+    },
+    {
+      "id": "vizion_plus",
+      "name": "Vizion Plus",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8",
+      "categories": [
+        "International/Albania",
+        "Cinéma & Divertissement"
+      ]
+    },
+    {
+      "id": "andorra_tv",
+      "name": "Andorra TV",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8",
+      "categories": [
+        "International/Andorra",
+        "Cinéma & Divertissement"
+      ]
+    },
+    {
+      "id": "tn_todo_noticias__",
+      "name": "TN Todo Noticias Ⓨ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.youtube.com/c/todonoticias/live",
+      "categories": [
+        "International/Argentina",
+        "News"
+      ]
+    },
+    {
+      "id": "encuentro____",
+      "name": "Encuentro Ⓨ Ⓖ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.youtube.com/user/encuentro/live",
+      "categories": [
+        "International/Argentina",
+        "Culture & Spiritualité"
+      ]
+    },
+    {
+      "id": "pakapaka____",
+      "name": "Pakapaka Ⓨ Ⓖ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.youtube.com/user/CanalPakapaka/live",
+      "categories": [
+        "International/Argentina",
+        "Jeunesse / Kids"
+      ]
+    },
+    {
+      "id": "televisi_n_p_blica__",
+      "name": "Televisión Pública Ⓨ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.youtube.com/user/TVPublicaArgentina/live",
+      "categories": [
+        "International/Argentina",
+        "Cinéma & Divertissement"
+      ]
+    },
+    {
+      "id": "canal_26",
+      "name": "Canal 26",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+      "categories": [
+        "International/Argentina",
+        "News"
+      ]
+    },
+    {
+      "id": "cr_nica_tv__",
+      "name": "Crónica TV Ⓨ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.youtube.com/c/cronicatv/live",
+      "categories": [
+        "International/Argentina",
+        "News"
+      ]
+    },
+    {
+      "id": "argentina_12__",
+      "name": "Argentina 12 Ⓨ",
+      "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",
+      "streamUrl": "https://www.youtube.com/c/IPNoticiasEnVivo/live",
+      "categories": [
+        "International/Argentina",
+        "News"
       ]
     }
   ]
