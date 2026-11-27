@@ -161,273 +161,273 @@
       "name": "beIN Sports 1 4K H265",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/26806.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/26806.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/4K - Arabe"]
     },
     {
       "id": "bein_2_4k",
       "name": "beIN Sports 2 4K H265",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/26805.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/26805.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/4K - Arabe"]
     },
     {
       "id": "bein_3_4k",
       "name": "beIN Sports 3 4K H265",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/26804.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/26804.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/4K - Arabe"]
     },
     {
       "id": "bein_4_4k",
       "name": "beIN Sports 4 4K H265",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/26803.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/26803.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/4K - Arabe"]
     },
     {
       "id": "bein_5_4k",
       "name": "beIN Sports 5 4K H265",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/26802.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/26802.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/4K - Arabe"]
     },
     {
       "id": "bein_6_4k",
       "name": "beIN Sports 6 4K H265",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/26801.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/26801.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/4K - Arabe"]
     },
     {
       "id": "bein_7_4k",
       "name": "beIN Sports 7 4K H265",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/26800.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/26800.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/4K - Arabe"]
     },
     {
       "id": "bein_8_4k",
       "name": "beIN Sports 8 4K H265",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/26799.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/26799.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/4K - Arabe"]
     },
     {
       "id": "bein_9_4k",
       "name": "beIN Sports 9 4K H265",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/26798.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/26798.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/4K - Arabe"]
     },
     {
       "id": "bein_extra_1_4k",
       "name": "BeIN Sports Extra 1 4K",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/814.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/814.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/4K - Arabe"]
     },
     {
       "id": "bein_extra_2_4k",
       "name": "BeIN Sports Extra 2 4K",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/815.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/815.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/4K - Arabe"]
     },
     {
       "id": "bein_1_sd",
       "name": "beIN Sports 1 SD",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/54909.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/54909.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/SD - Arabe"]
     },
     {
       "id": "bein_2_sd",
       "name": "beIN Sports 2 SD",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/54910.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/54910.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/SD - Arabe"]
     },
     {
       "id": "bein_3_sd",
       "name": "beIN Sports 3 SD",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/54911.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/54911.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/SD - Arabe"]
     },
     {
       "id": "bein_4_sd",
       "name": "beIN Sports 4SD",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/54913.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/54913.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/SD - Arabe"]
     },
     {
       "id": "bein_5_sd",
       "name": "beIN Sports 5 SD",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/54914.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/54914.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/SD - Arabe"]
     },
     {
       "id": "bein_6_sd",
       "name": "beIN Sports 6 SD",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/79815.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/79815.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/SD - Arabe"]
     },
     {
       "id": "bein_7_sd",
       "name": "beIN Sports 7 SD",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/54912.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/54912.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/SD - Arabe"]
     },
     {
       "id": "bein_8_sd",
       "name": "beIN Sports 8 SD",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/54915.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/54915.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/SD - Arabe"]
     },
     {
       "id": "bein_9_sd",
       "name": "beIN Sports 9 SD",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/54916.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/54916.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/SD - Arabe"]
     },
     {
       "id": "bein_extra_1_sd",
       "name": "BeIN Sports Extra 1 SD",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/826.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/826.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/SD - Arabe"]
     },
     {
       "id": "bein_extra_2_sd",
       "name": "BeIN Sports Extra 2 SD",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/827.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/827.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/SD - Arabe"]
     },
     {
       "id": "bein_aus_1_hd",
       "name": "AUS: BEIN SPORTS 1 HD",
       "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/85683997.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/HD - Australie"]
     },
     {
       "id": "bein_aus_2_hd",
       "name": "AUS: BEIN SPORTS 2 HD",
       "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/85683998.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/HD - Australie"]
     },
     {
       "id": "bein_aus_3_hd",
       "name": "AUS: BEIN SPORTS HD 3",
       "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/85683999.m3u8",
-      "categories": ["BEIN SPORTS", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/HD - Australie"]
     },
     {
       "id": "bein_fr_1_fhd",
       "name": "FR: beIN Sports 1 FHD",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/65398.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/65398.m3u8",
-      "categories": ["BEIN SPORTS", "International/France", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/FHD - Français"]
     },
     {
       "id": "bein_fr_2_fhd",
       "name": "FR: beIN Sports 2 FHD",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/65399.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/65399.m3u8",
-      "categories": ["BEIN SPORTS", "International/France", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/FHD - Français"]
     },
     {
       "id": "bein_fr_3_fhd",
       "name": "FR: beIN Sports 3 FHD",
       "logoUrl": "http://1010-2026.pro:8089/logo/chn/65400.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/65400.m3u8",
-      "categories": ["BEIN SPORTS", "International/France", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/FHD - Français"]
     },
     {
       "id": "bein_tr_1_hd",
       "name": "TR: BEIN SPORTS 1 HD",
       "logoUrl": "http://arsenal-london001.dynamic-dns.net/pikon/turkey/bein-sports-1-int.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/85694958.m3u8",
-      "categories": ["BEIN SPORTS", "International/Turquie", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/HD - Turquie"]
     },
     {
       "id": "bein_tr_1_fhd",
       "name": "TR: BEIN SPORTS 1 FHD",
       "logoUrl": "http://arsenal-london001.dynamic-dns.net/pikon/turkey/bein-sports-1-int.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/85694959.m3u8",
-      "categories": ["BEIN SPORTS", "International/Turquie", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/FHD - Turquie"]
     },
     {
       "id": "bein_tr_2_hd",
       "name": "TR: BEIN SPORTS 2 HD",
       "logoUrl": "http://arsenal-london001.dynamic-dns.net/pikon/turkey/bein-sports-2-int.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/85694960.m3u8",
-      "categories": ["BEIN SPORTS", "International/Turquie", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/HD - Turquie"]
     },
     {
       "id": "bein_tr_2_fhd",
       "name": "TR: BEIN SPORTS 2 FHD",
       "logoUrl": "http://arsenal-london001.dynamic-dns.net/pikon/turkey/bein-sports-2-int.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/85694961.m3u8",
-      "categories": ["BEIN SPORTS", "International/Turquie", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/FHD - Turquie"]
     },
     {
       "id": "bein_tr_3_hd",
       "name": "TR: BEIN SPORTS 3 HD",
       "logoUrl": "http://arsenal-london001.dynamic-dns.net/pikon/turkey/bein-sports-3-int.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/85694962.m3u8",
-      "categories": ["BEIN SPORTS", "International/Turquie", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/HD - Turquie"]
     },
     {
       "id": "bein_tr_3_fhd",
       "name": "TR: BEIN SPORTS 3 FHD",
       "logoUrl": "http://arsenal-london001.dynamic-dns.net/pikon/turkey/bein-sports-3-int.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/85694963.m3u8",
-      "categories": ["BEIN SPORTS", "International/Turquie", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/FHD - Turquie"]
     },
     {
       "id": "bein_tr_4_hd",
       "name": "TR: BEIN SPORTS 4 HD",
       "logoUrl": "http://arsenal-london001.dynamic-dns.net/pikon/turkey/bein-sports-4-int.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/85694964.m3u8",
-      "categories": ["BEIN SPORTS", "International/Turquie", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/HD - Turquie"]
     },
     {
       "id": "bein_tr_4_fhd",
       "name": "TR: BEIN SPORTS 4 FHD",
       "logoUrl": "http://arsenal-london001.dynamic-dns.net/pikon/turkey/bein-sports-4-int.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/85694965.m3u8",
-      "categories": ["BEIN SPORTS", "International/Turquie", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/FHD - Turquie"]
     },
     {
       "id": "bein_tr_haber",
       "name": "TR: BEIN SPORTS HABER HD",
       "logoUrl": "http://arsenal-london001.dynamic-dns.net/pikon/turkey/bein-sports-haber-int.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/85694966.m3u8",
-      "categories": ["BEIN SPORTS", "International/Turquie", "News"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/HD - Turquie"]
     },
     {
       "id": "bein_tr_max_1",
       "name": "TR: BEIN SPORTS MAX 1 HD",
       "logoUrl": "http://arsenal-london001.dynamic-dns.net/pikon/turkey/bein-sports-1-max-int.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/85694967.m3u8",
-      "categories": ["BEIN SPORTS", "International/Turquie", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/HD - Turquie"]
     },
     {
       "id": "bein_tr_max_2",
       "name": "TR: BEIN SPORTS MAX 2 FHD",
       "logoUrl": "http://arsenal-london001.dynamic-dns.net/pikon/turkey/bein-sports-2-max-int.png",
       "streamUrl": "http://1010-2026.pro:8089/live/8589847614306/9041607812097/85694968.m3u8",
-      "categories": ["BEIN SPORTS", "International/Turquie", "Sports"]
+      "categories": ["BEIN SPORTS", "BEIN SPORTS/FHD - Turquie"]
     },
     {
       "id": "mbc_masr_1",
