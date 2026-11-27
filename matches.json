@@ -1,48 +1,90 @@
 [
   {
     "id": "match_1",
-    "title": "beIN Sports 1 - Match en Direct",
-    "tournament": "UEFA Champions League",
-    "time": "21:00",
-    "teamA": "Real Madrid",
-    "teamB": "Barcelona",
-    "teamALogo": "https://i.imgur.com/PJYTfHi.png",
-    "teamBLogo": "https://i.imgur.com/MvpntzA.png",
+    "teamA": "ريال مدريد",
+    "teamALogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/real_madrid.png",
+    "teamB": "برشلونة",
+    "teamBLogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/barcelona.png",
+    "time": "18:00",
+    "tournament": "دوري أبطال أوروبا",
+    "channelName": "beIN Sports HD 1",
+    "commentator": "عصام الشوالي",
+    "streamUrl": "http://196.200.156.190/dispatch/ch1.m3u8",
     "sources": [
       {
-        "quality": "Master",
+        "quality": "1080",
+        "url": "http://196.200.156.190/dispatch/ch1.m3u8"
+      },
+      {
+        "quality": "720",
+        "url": "http://196.200.156.190/dispatch/ch1.m3u8"
+      },
+      {
+        "quality": "480",
+        "url": "http://196.200.156.190/dispatch/ch1.m3u8"
+      },
+      {
+        "quality": "240",
         "url": "http://196.200.156.190/dispatch/ch1.m3u8"
       }
     ]
   },
   {
     "id": "match_2",
-    "title": "beIN Sports 2 - Match en Direct",
-    "tournament": "Premier League",
-    "time": "18:30",
-    "teamA": "Manchester City",
-    "teamB": "Arsenal",
-    "teamALogo": "https://i.imgur.com/XjzK3gZ.png",
-    "teamBLogo": "https://i.imgur.com/fRWaDyF.png",
+    "teamA": "الوداد الرياضي",
+    "teamALogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/wydad.png",
+    "teamB": "الرجاء الرياضي",
+    "teamBLogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/raja.png",
+    "time": "21:00",
+    "tournament": "البطولة الاحترافية إنوي",
+    "channelName": "beIN Sports HD 2",
+    "commentator": "هشام فرج",
+    "streamUrl": "http://196.200.156.190/dispatch/ch2.m3u8",
     "sources": [
       {
-        "quality": "Master",
+        "quality": "1080",
+        "url": "http://196.200.156.190/dispatch/ch2.m3u8"
+      },
+      {
+        "quality": "720",
+        "url": "http://196.200.156.190/dispatch/ch2.m3u8"
+      },
+      {
+        "quality": "480",
+        "url": "http://196.200.156.190/dispatch/ch2.m3u8"
+      },
+      {
+        "quality": "240",
         "url": "http://196.200.156.190/dispatch/ch2.m3u8"
       }
     ]
   },
   {
     "id": "match_3",
-    "title": "beIN Sports 3 - Match en Direct",
-    "tournament": "La Liga",
-    "time": "20:00",
-    "teamA": "Atletico Madrid",
-    "teamB": "Sevilla",
-    "teamALogo": "https://i.imgur.com/7GaahYh.png",
-    "teamBLogo": "https://i.imgur.com/a20DHnj.png",
+    "teamA": "Real Madrid",
+    "teamALogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/real_madrid.png",
+    "teamB": "Barcelona",
+    "teamBLogo": "https://raw.githubusercontent.com/elcodefy/souki-chanels/main/Teams/barcelona.png",
+    "time": "22:00",
+    "tournament": "دوري أبطال أوروبا",
+    "channelName": "beIN Sports HD 3",
+    "commentator": "عصام الشوالي",
+    "streamUrl": "http://196.200.156.190/dispatch/ch3.m3u8",
     "sources": [
       {
-        "quality": "Master",
+        "quality": "1080",
+        "url": "http://196.200.156.190/dispatch/ch3.m3u8"
+      },
+      {
+        "quality": "720",
+        "url": "http://196.200.156.190/dispatch/ch3.m3u8"
+      },
+      {
+        "quality": "480",
+        "url": "http://196.200.156.190/dispatch/ch3.m3u8"
+      },
+      {
+        "quality": "240",
         "url": "http://196.200.156.190/dispatch/ch3.m3u8"
       }
     ]
